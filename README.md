@@ -14,7 +14,7 @@ This repository contains my solutions and practice exercises completed as part o
 
 ## Important File Locations
 
-Some exercises require opening specific files instead of the project root.
+Some exercises require opening specific files instead of the project root. These exercises were developed and executed using IntelliJ IDEA and Eclipse IDE.
 
 - **JUnit**
   ```
