@@ -12,6 +12,30 @@ This repository contains my solutions and practice exercises completed as part o
 - 📁 PL/SQL
 - 📁 Spring Core and Maven
 
+## Important File Locations
+
+Some exercises require opening specific files instead of the project root.
+
+- **JUnit**
+  ```
+  DeepSkilling/JUnit Exercises/JUnitExercises/target/test-classes/org/example
+  ```
+
+- **Mockito**
+  ```
+  DeepSkilling/Mockito Exercises/MockitoExercises/target/test-classes/org/example
+  ```
+
+- **SLF4J**
+  ```
+  DeepSkilling/SLF4J/SLF4J/src/main/java/org/example
+  ```
+
+- **Spring Core and Maven**
+  ```
+  DeepSkilling/Spring Core and Maven/Library Management System/src/main/java/com
+  ```
+
 ## Technologies Used
 
 - Java
@@ -19,6 +43,7 @@ This repository contains my solutions and practice exercises completed as part o
 - Maven
 - JUnit
 - Mockito
+- SLF4J
 - Oracle PL/SQL
 
 ## Purpose
